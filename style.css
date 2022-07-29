@@ -9,6 +9,7 @@ p{
     color: #777777;
 }
 
+/* for dark cariusel img  */
 .carousel-item img {
     filter: brightness(50%);
 }
